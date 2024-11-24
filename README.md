@@ -94,7 +94,7 @@ aws ec2 describe-regions --output table
 Result: A table of AWS regions was displayed, confirming the configuration.
 
 ### 7. Screenshot of output of the regions on my aws cli.
-![alt text](aws_region_list_table.png)
+![Alt text](./aws_region_list_table.png)
 
 ### 8. Understanding APIs
 What is an API?
