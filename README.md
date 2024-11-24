@@ -93,7 +93,10 @@ Copy code
 aws ec2 describe-regions --output table
 Result: A table of AWS regions was displayed, confirming the configuration.
 
-### 7. Understanding APIs
+### 7. Screenshot of output of the regions on my aws cli.
+![alt text](aws_region_list_table.png)
+
+### 8. Understanding APIs
 What is an API?
 An API (Application Programming Interface) is a set of protocols and tools that allow software applications to communicate.
 AWS APIs enable programmatic interaction with AWS services, allowing resource creation, modification, and deletion through structured requests.
