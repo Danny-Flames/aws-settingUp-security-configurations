@@ -114,7 +114,7 @@ This project involved setting up secure authentication to AWS APIs, enabling the
 
 
 ### 7. Screenshot of output of the regions on my aws cli.
-![alt text](./aws_region_list_table.png)
+![aws_region_list_table](./aws_region_list_table.png)
 
 
 ### 8. Understanding APIs
